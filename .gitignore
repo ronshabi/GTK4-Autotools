@@ -1,5 +1,6 @@
 build-aux/
 build/
+experimental/
 
 ### Autotools template
 # http://www.gnu.org/software/automake
